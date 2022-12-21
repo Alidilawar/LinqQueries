@@ -1,0 +1,7 @@
+F:\Asp.NET MVC\LINQ\LINQ\bin\Debug\LINQ.exe.config
+F:\Asp.NET MVC\LINQ\LINQ\bin\Debug\LINQ.exe
+F:\Asp.NET MVC\LINQ\LINQ\bin\Debug\LINQ.pdb
+F:\Asp.NET MVC\LINQ\LINQ\obj\Debug\LINQ.csprojAssemblyReference.cache
+F:\Asp.NET MVC\LINQ\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+F:\Asp.NET MVC\LINQ\LINQ\obj\Debug\LINQ.exe
+F:\Asp.NET MVC\LINQ\LINQ\obj\Debug\LINQ.pdb
